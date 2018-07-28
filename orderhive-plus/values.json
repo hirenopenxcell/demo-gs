@@ -1,1 +1,1 @@
-{"component":"mongodb","resources":{"requests":{"memory":21}}}
+{"component":"mongodb","resources":{"limits":{"memory":23}}}
