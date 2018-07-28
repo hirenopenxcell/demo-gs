@@ -1,1 +1,1 @@
-{"component":"frontendg","resources":{"requests":{"memory":"I"}}}
+{"component":"mongodb","resources":{"requests":{"memory":"A"}}}
