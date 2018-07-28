@@ -1,1 +1,1 @@
-{"component":"backend","resources":{"requests":{"cpu":"100mfgg1"}}}
+{"component":"activemq","resources":{"requests":{"memory":1}}}
