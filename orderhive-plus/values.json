@@ -1,1 +1,1 @@
-{"component":"mongodb","resources":{"limits":{"cpu":24}}}
+{"component":"redis","resources":{"requests":{"cpu":26}}}
