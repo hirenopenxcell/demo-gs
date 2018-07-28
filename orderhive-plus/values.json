@@ -1,1 +1,1 @@
-{"component":"redis","resources":{"requests":{"cpu":52}}}
+{"component":"redis","resources":{"limits":{"memory":71}}}
