@@ -1,1 +1,1 @@
-{"component":"backend","resources":{"limits":{"memory":"nidhi12"}}}
+{"component":"backend","resources":{"requests":{"cpu":"100mfgg1"}}}
