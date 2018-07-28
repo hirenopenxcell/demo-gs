@@ -1,1 +1,1 @@
-{"component":"test","resources":{"limits":{"cpu":"data111"}}}
+{"component":"test2","resources":{"limits":{"cpu":"data"}}}
