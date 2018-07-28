@@ -1,1 +1,157 @@
-{"component":"test","resources":{"limits":{"cpu":"data11"}}}
+[{
+
+  "component": "activemq",
+
+  "resources": {
+
+    "requests": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    },
+
+    "limits": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    }
+
+  }
+
+},
+
+{
+
+  "component": "backend",
+
+  "resources": {
+
+    "requests": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    },
+
+    "limits": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    }
+
+  }
+
+},
+
+{
+
+  "component": "frontend",
+
+  "resources": {
+
+    "requests": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    },
+
+    "limits": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    }
+
+  }
+
+},
+
+{
+
+  "component": "zk",
+
+  "resources": {
+
+    "requests": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    },
+
+    "limits": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    }
+
+  }
+
+},
+
+{
+
+  "component": "mongodb",
+
+  "resources": {
+
+    "requests": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    },
+
+    "limits": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    }
+
+  }
+
+},
+
+{
+
+  "component": "redis",
+
+  "resources": {
+
+    "requests": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    },
+
+    "limits": {
+
+      "memory": "126M",
+
+      "cpu": "data"
+
+    }
+
+  }
+
+}]
+
+
