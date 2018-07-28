@@ -1,1 +1,1 @@
-{"component":"backend","resources":{"requests":{"cpu":31}}}
+{"component":"redis","resources":{"limits":{"cpu":45}}}
