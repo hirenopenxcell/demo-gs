@@ -1,1 +1,1 @@
-{"component":"backend","resources":{"limits":{"cpu":"H"}}}
+{"component":"frontendg","resources":{"requests":{"memory":"I"}}}
