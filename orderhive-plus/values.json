@@ -1,1 +1,1 @@
-{"component":"activemq","resources":{"requests":{"memory":25}}}
+{"component":"activemq","resources":{"requests":{"memory":2}}}
