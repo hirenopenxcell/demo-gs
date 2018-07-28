@@ -1,1 +1,1 @@
-{"component":"frontendg","resources":{"requests":{"cpu":14}}}
+{"component":"frontendg","resources":{"limits":{"memory":15}}}
