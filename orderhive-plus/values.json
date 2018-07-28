@@ -1,1 +1,1 @@
-{"component":"redis","resources":{"limits":{"cpu":"J"}}}
+{"component":"activemq","resources":{"requests":{"memory":""}}}
