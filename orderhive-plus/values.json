@@ -1,1 +1,1 @@
-{"component":"zk","resources":{"limits":{"cpu":20}}}
+{"component":"mongodb","resources":{"requests":{"memory":21}}}
