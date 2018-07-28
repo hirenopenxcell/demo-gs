@@ -1,1 +1,1 @@
-{"component":"redis","resources":{"requests":{"memory":"E"}}}
+{"component":"redis","resources":{"limits":{"memory":"G"}}}
