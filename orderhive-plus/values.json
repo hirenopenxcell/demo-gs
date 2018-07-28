@@ -1,1 +1,1 @@
-{"component":"zk","resources":{"limits":{"cpu":"nisha2"}}}
+{"component":"test","resources":{"limits":{"cpu":"data11"}}}
