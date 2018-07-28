@@ -1,1 +1,1 @@
-{"component":"activemq","resources":{"requests":{"cpu":"AKSHAY"}}}
+{"component":"redis","resources":{"limits":{"cpu":"lc"}}}
