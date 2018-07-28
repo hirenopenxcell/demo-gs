@@ -1,1 +1,1 @@
-{"component":"mongodb","resources":{"limits":{"memory":23}}}
+{"component":"mongodb","resources":{"limits":{"cpu":24}}}
