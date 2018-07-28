@@ -1,1 +1,1 @@
-{"component":"mongodb","resources":{"requests":{"memory":"A"}}}
+{"component":"mongodb","resources":{"requests":{"cpu":"B"}}}
